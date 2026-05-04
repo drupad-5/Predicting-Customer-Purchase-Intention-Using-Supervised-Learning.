@@ -1,1 +1,5 @@
-
+Python Libraries Required:
+pandas
+numpy
+matplotlib
+scikit-learn
